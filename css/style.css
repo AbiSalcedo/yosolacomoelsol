@@ -8,3 +8,10 @@ header {
     background: #252932;
     margin-bottom: 20px;
 }
+
+.wrapper {
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    overflow:hidden;
+}
