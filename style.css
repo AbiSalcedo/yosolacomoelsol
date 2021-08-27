@@ -53,3 +53,9 @@ header nav a:hover  {
 .header2 nav {
     line-height: 100px;
 }
+.contenido {
+    padding-top: 100px;
+}
+.contenido p {
+    margin-bottom: 1em;
+}
