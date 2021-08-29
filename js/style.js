@@ -1,1 +1,0 @@
-alert("Pulse ACEPTAR para poder ingresar a la página :)");
